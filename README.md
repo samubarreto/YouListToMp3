@@ -20,7 +20,8 @@ Software criado com o objetivo de possibilitar o download rápido e conveniente 
 > * Para usar o software você precisa instalar as bibliotecas python "customtkinter, tkinter, pytube e unidecode", para baixá-las, execute o seguinte comando em seu prompt de comando: "pip install customtkinter tkinter pytube unidecode";
 > * Para criar uma cópia executável da aplicação, você pode usar o arquivo setup.py e seguir as instruções do cxfreeze.
 
-![image](https://github.com/sampbrt/YouListToMp3/assets/70921394/ec2c189f-4397-4831-83ec-af2ab6c45fa8)
-
 ## **Contact**
 > * Samuel Pereira Barreto [(Links)](https://linktr.ee/sampereirabrt).
+
+## **Images**
+> * ![image](https://github.com/sampbrt/YouListToMp3/assets/70921394/ec2c189f-4397-4831-83ec-af2ab6c45fa8)
