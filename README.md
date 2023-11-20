@@ -1,4 +1,4 @@
-## **(EN) YouListToMp3**
+## **(EN) YouListToMp3** (CURRENTLY NOT WORKING, DON'T KNOW WHY)
 Software created with the aim of enabling the fast and convenient download of entire public YouTube playlists in mp3 format. Built in Python using mainly the pytube library.
 
 ## **About**
@@ -18,10 +18,9 @@ Software criado com o objetivo de possibilitar o download rápido e conveniente 
 > * Execute sua IDE como administrador para evitar alguns problemas;
 > * Para usar o software você precisa instalar as bibliotecas python "customtkinter, tkinter, pytube e unidecode", para baixá-las, execute o seguinte comando em seu prompt de comando: "pip install customtkinter tkinter pytube unidecode".
 
-## **Contact**
-> * Samuel Pereira Barreto [(Links)](https://linktr.ee/sampereirabrt).
-
 ## **Images**
 > * ![image](https://github.com/sampbrt/YouListToMp3/assets/70921394/ec2c189f-4397-4831-83ec-af2ab6c45fa8)
 > * ![image](https://github.com/sampbrt/YouListToMp3/assets/70921394/8d6c4438-5c0c-4bf9-842f-7921d53ca105)
 
+# [📁 Meu Portfólio (Clique Aqui ↗️)](https://samubarreto.github.io/Portfolio/)
+  [![github-banner](https://github.com/samubarreto/samubarreto/assets/70921394/e24ccd55-edf4-4648-b0f9-ebf9b13a67cc)](https://samubarreto.github.io/Portfolio/)
